@@ -1,0 +1,4 @@
+*.ics
+/venv/
+/__pycache__/
+/.idea/
